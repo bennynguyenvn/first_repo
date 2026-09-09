@@ -4,6 +4,11 @@
 
 - Staging files - you've made changes and you want to Possibly save them permanently as a version
 
-- Hello this is another change
+--- Hello this is another change
 
-- This is change #2
+--- This is change #2 
+
+--- And I try another one lol
+
+- Commit files: You give a name to the version you are permanently saving.
+--- Make sure the message is descriptive
