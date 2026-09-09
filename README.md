@@ -1,6 +1,7 @@
 # First Repo
 
 1. For the first commit/creation of a new repository, you must initialize the repo.
+2. Stage any changes made, using the '+' in source control next to changes section.
 
 - Staging files - you've made changes and you want to Possibly save them permanently as a version
 
