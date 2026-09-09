@@ -2,6 +2,7 @@
 
 1. For the first commit/creation of a new repository, you must initialize the repo.
 2. Stage any changes made, using the '+' in source control next to changes section.
+3. Remember to put the Message before hitting Commit
 
 - Staging files - you've made changes and you want to Possibly save them permanently as a version
 
